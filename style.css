@@ -316,3 +316,151 @@ footer ul li a:hover {
 #topBtn:hover {
     background-color: #F5ECD7;
 }
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px) {
+    nav {
+        padding: 0.8rem 1rem;
+    }
+    
+    .logo {
+        font-size: 1rem;
+    }
+    
+    nav ul {
+        gap: 0.7rem;
+    }
+    
+    nav ul a {
+        font-size: 0.6rem;
+        letter-spacing: 0.5px;
+    }
+    
+    .hero {
+        min-height: auto;
+        padding: 0 1.5rem;
+        margin-top: 70px;
+        padding-top: 80px;
+    }
+    
+    .hero-content {
+        max-width: 100%;
+        padding-top: 2rem;
+    }
+    
+    .hero h1 {
+        font-size: 1.8rem;
+        line-height: 1.4;
+    }
+    
+    .hero p {
+        font-size: 0.9rem;
+    }
+    
+    .btn {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .featured {
+        padding: 3rem 1.5rem;
+    }
+    
+    .featured h2 {
+        font-size: 1.8rem;
+    }
+    
+    .featured-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    
+    .art-card img {
+        height: 250px;
+    }
+    
+    .categories {
+        padding: 3rem 1.5rem;
+    }
+    
+    .categories h2 {
+        font-size: 1.8rem;
+    }
+    
+    .cat-grid {
+        padding: 0;
+        gap: 1rem;
+    }
+    
+    .cat-btn {
+        padding: 0.7rem 1.5rem;
+        font-size: 0.75rem;
+    }
+    
+    .art-section {
+        padding: 3rem 1.5rem;
+    }
+    
+    .art-section h2 {
+        font-size: 1.8rem;
+    }
+    
+    .art-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    
+    .artists {
+        padding: 3rem 1.5rem;
+    }
+    
+    .artists h2 {
+        font-size: 1.8rem;
+    }
+    
+    .artists-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+    
+    footer {
+        flex-direction: column;
+        padding: 2rem 1.5rem;
+        gap: 2rem;
+    }
+    
+    #topBtn {
+        padding: 10px 15px;
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    nav ul {
+        gap: 0.5rem;
+    }
+    
+    nav ul a {
+        font-size: 0.55rem;
+    }
+    
+    .hero {
+        margin-top: 60px;
+        padding-top: 60px;
+    }
+    
+    .hero h1 {
+        font-size: 1.5rem;
+    }
+    
+    .featured-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .art-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .artists-grid {
+        grid-template-columns: 1fr;
+    }
+}
