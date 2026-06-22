@@ -38,14 +38,10 @@ The gallery goes beyond static display — it includes featured artwork highligh
 ## 📁 Project Structure
 art-vault/
 
-├── index.html          # Main gallery homepage
-
-├── style.css           # Global styling
-
-├── main.js             # Interactive features
-
-├── images/             # AVIF image assets
-
+├── index.html          
+├── style.css           
+├── script.js             
+├── images/             
 └── README.md
 
 ---
