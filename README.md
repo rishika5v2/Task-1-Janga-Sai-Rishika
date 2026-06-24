@@ -2,6 +2,8 @@
 🌐 Responsive Frontend Showcase  
 DecodeLabs Full Stack Development Internship — Project 1: Frontend Design & Interaction
 
+**Live Demo:** [View Live](https://rishika5v2.github.io/Task-1-Janga-Sai-Rishika/)
+
 ---
 
 ## 📖 Overview
@@ -76,6 +78,22 @@ Or use a local server:
 ```bash
 python -m http.server 8000
 ```
+
+---
+
+## 📸 Screenshots
+
+![Home Page](./screenshots/home.png)
+![Featured Gallery](./screenshots/gallery.png)
+![Categories Section](./screenshots/categories.png)
+![Artists Section](./screenshots/artists.png)
+![Digital Art Page](./screenshots/digital.png)
+![Abstract Art Page](./screenshots/abstract.png)
+![Oil Painting Page](./screenshots/oil.png)
+![Watercolor Page](./screenshots/watercolor.png)
+![Artist Profile](./screenshots/mob1.png)
+![Artwork Details](./screenshots/mob2.png)
+![Mobile Navigation](./screenshots/mob3.png)
 
 ---
 
