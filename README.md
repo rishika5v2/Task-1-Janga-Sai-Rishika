@@ -83,17 +83,38 @@ python -m http.server 8000
 
 ## 📸 Screenshots
 
+**Home Page**  
 ![Home Page](./screenshots/home.png)
+
+**Featured Gallery**  
 ![Featured Gallery](./screenshots/gallery.png)
+
+**Categories Section**  
 ![Categories Section](./screenshots/categories.png)
+
+**Artists Section**  
 ![Artists Section](./screenshots/artists.png)
+
+**Digital Art Page**  
 ![Digital Art Page](./screenshots/digital.png)
+
+**Abstract Art Page**  
 ![Abstract Art Page](./screenshots/abstract.png)
+
+**Oil Painting Page**  
 ![Oil Painting Page](./screenshots/oil.png)
+
+**Watercolor Page**  
 ![Watercolor Page](./screenshots/watercolor.png)
-![Artist Profile](./screenshots/mob1.png)
-![Artwork Details](./screenshots/mob2.png)
-![Mobile Navigation](./screenshots/mob3.png)
+
+**Mobile View – Home**  
+<img src="./screenshots/mob1.png" width="250">
+
+**Mobile View – Artwork Details**  
+<img src="./screenshots/mob2.png" width="250">
+
+**Mobile View – Navigation**  
+<img src="./screenshots/mob3.png" width="250">
 
 ---
 
